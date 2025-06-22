@@ -21,15 +21,19 @@ created by thapa
 
 ## How to run the server (backend) application
 
+```bash
 $ cd server   
 $ npm install   
 $ npm run dev    
+```
 (note: always run the backend application first   
       
 ## How to run the client (frontend) application
 
+```bash
 $ cd client   
 $ npm install   
 $ npm run dev   
+```
 
 
