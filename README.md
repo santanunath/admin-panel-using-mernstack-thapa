@@ -41,7 +41,7 @@ all api busuness logic are defined in folder 'controllers'.
 ```bash
 $ cd client   
 $ npm install   
-$ npm run preview     
+$ npm run dev     
 ```
 (Note: frontend is created using 'vite')   
      
