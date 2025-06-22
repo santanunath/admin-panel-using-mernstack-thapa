@@ -1,1 +1,5 @@
 VITE_APP_URI_API=https://api.thapatechnical.site
+
+# -------------
+# VITE_APP_URI_API used in /client/src/pages/Register.jsx
+# -------------
