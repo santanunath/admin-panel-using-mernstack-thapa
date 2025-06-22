@@ -34,6 +34,7 @@ http://host-ip:5001
 (Note: always run the backend application first. here 'server.js' is the main program which defines the PORT number)    
 all api routes are defined in folder 'router'.    
 all api busuness logic are defined in folder 'controllers'.   
+WARNING!! u have to specify frontend urls in cors allowedOrigin in file 'server.js'   
       
 ## How to run the client (frontend) application
 
