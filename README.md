@@ -32,7 +32,7 @@ http://localhost:5000 (or)
 http://host-ip:5000   
     
 (my RPi host-ip is 192.168.0.102)
-the host-ip may be different for your system.
+it may be different for your system.
 ```
 (Note: always run the backend application first. here 'server.js' is the main program which defines the PORT number,eg.5000)    
 all api routes are defined in folder 'router'.    
