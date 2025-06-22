@@ -1,2 +1,10 @@
-MONGODB_URI=mongodb+srv;
+MONGODB_URI="mongodb+srv://santanu62:bapon62@cluster0.69pkl0k.mongodb.net/pharmadb?retryWrites=true&w=majority&appName=Cluster0"
+
 JWT_SECRET_KEY=WORLDBEST
+
+# ---------------
+# MONGODB_URL (used in /src/database/index.js)
+# username: santanu62
+# password: bapon62
+# database: pharmadb
+# ----------------
