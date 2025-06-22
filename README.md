@@ -26,7 +26,7 @@ $ cd server
 $ npm install   
 $ npm run start    
    
-now server is running at 
+now server(backend) application is running at 
 http://localhost:5001 (or)
 http://host-ip:5001
 ```
