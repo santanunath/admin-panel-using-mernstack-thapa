@@ -24,7 +24,7 @@ created by thapa
 ```bash
 $ cd server   
 $ npm install   
-$ npm run dev    
+$ npm run start    
 ```
 (note: always run the backend application first   
       
