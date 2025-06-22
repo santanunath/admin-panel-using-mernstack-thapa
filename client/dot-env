@@ -1,6 +1,7 @@
-VITE_APP_URI_API=https://api.thapatechnical.site
+VITE_APP_URI_API=http://<backend-server-ip>:<backend-server-port>
 
 # -------------
+# VITE_APP_URI_API (used in /client/src/store/auth.jsx)
 # VITE_APP_URI_API (used inside fetch() in /client/src/pages/
 # Register.jsx, Login.jsx, Contact.jsx, 
 # Admin-Users.jsx, Admin-Update.jsx, Admin'-Contacts.jsx)
