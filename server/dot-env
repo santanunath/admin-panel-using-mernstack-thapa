@@ -8,5 +8,5 @@ JWT_SECRET_KEY=dilmangeymore
 # password: bapon62
 # database: pharmadb
 # ----------------
-# JWT_SECRET_KEY used in /server/models/user-model.js)
+# JWT_SECRET_KEY (used in /server/models/user-model.js)
 # ----------------
