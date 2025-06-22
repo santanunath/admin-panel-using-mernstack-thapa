@@ -28,10 +28,10 @@ $ npm install
 $ npm run start    
    
 now the backend application is running at 
-http://localhost:5001 (or)
-http://host-ip:5001
+http://localhost:5000 (or)
+http://host-ip:5000
 ```
-(Note: always run the backend application first. here 'server.js' is the main program which defines the PORT number)    
+(Note: always run the backend application first. here 'server.js' is the main program which defines the PORT number,eg.5000)    
 all api routes are defined in folder 'router'.    
 all api busuness logic are defined in folder 'controllers'.   
 > WARNING!! u have to specify frontend URLs in cors allowedOrigin in file 'server.js', otherwise frontend cannot access the backend.
