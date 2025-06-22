@@ -25,6 +25,10 @@
 $ cd server   
 $ npm install   
 $ npm run start    
+   
+now server is running at 
+http://localhost:5001 (or)
+http://host-ip:5001
 ```
 (Note: always run the backend application first   
       
