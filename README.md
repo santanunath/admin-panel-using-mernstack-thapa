@@ -1,4 +1,4 @@
-created by thapa
+### created by: thapa
 
 ## Tech stack (client/frontend)
 
