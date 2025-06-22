@@ -7,3 +7,14 @@ created by thapa
 - "react-icons": "^4.12.0",
 - "react-router-dom": "^6.20.0",
 - "react-toastify": "^9.1.3"
+
+
+## Tech stack (server/backend)
+- "bcryptjs": "^2.4.3",
+- "cors": "^2.8.5",
+- "dotenv": "^16.3.1",
+- "express": "^4.18.2",
+- "jsonwebtoken": "^9.0.2",
+- "mongoose": "^7.6.3",
+- "nodemon": "^3.0.2",
+- "zod": "^3.22.4"
