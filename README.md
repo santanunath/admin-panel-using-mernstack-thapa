@@ -35,5 +35,5 @@ $ cd client
 $ npm install   
 $ npm run preview     
 ```
-
+(frontend is created using 'vite')
 
