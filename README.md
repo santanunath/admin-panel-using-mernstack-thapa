@@ -22,7 +22,8 @@
 ## How to run the server (backend) application
 
 ```bash
-$ cd server   
+$ cd server
+$ cp dot-env .env
 $ npm install   
 $ npm run start    
    
