@@ -33,7 +33,7 @@ $ npm run start
 ```bash
 $ cd client   
 $ npm install   
-$ npm run dev   
+$ npm run preview     
 ```
 
 
