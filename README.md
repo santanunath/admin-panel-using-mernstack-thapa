@@ -40,6 +40,7 @@ all api busuness logic are defined in folder 'controllers'.
 
 ```bash
 $ cd client   
+$ cp dot-env .env    
 $ npm install   
 $ npm run dev     
 ```
