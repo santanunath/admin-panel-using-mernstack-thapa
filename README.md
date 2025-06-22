@@ -26,7 +26,7 @@ $ cd server
 $ npm install   
 $ npm run start    
 ```
-(note: always run the backend application first   
+(Note: always run the backend application first   
       
 ## How to run the client (frontend) application
 
@@ -35,5 +35,6 @@ $ cd client
 $ npm install   
 $ npm run preview     
 ```
-(frontend is created using 'vite')
+(Note; frontend is created using 'vite')   
+     
 
