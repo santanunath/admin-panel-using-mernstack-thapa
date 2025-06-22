@@ -30,7 +30,7 @@ now the backend application is running at
 http://localhost:5001 (or)
 http://host-ip:5001
 ```
-(Note: always run the backend application first   
+(Note: always run the backend application first. here 'server.js' is the main program)  
       
 ## How to run the client (frontend) application
 
