@@ -18,3 +18,18 @@ created by thapa
 - "mongoose": "^7.6.3",
 - "nodemon": "^3.0.2",
 - "zod": "^3.22.4"
+
+## How to run the server (backend) application
+
+$ cd server   
+$ npm install   
+$ npm run dev    
+(note: always run the backend application first   
+      
+## How to run the client (frontend) application
+
+$ cd client   
+$ npm install   
+$ npm run dev   
+
+
