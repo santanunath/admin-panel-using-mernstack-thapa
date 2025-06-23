@@ -9,3 +9,14 @@ services:
           - "5000:5000"
        command:
           "npm run start"
+
+    mern-app-frontend:
+       build: 
+          context: ./client
+          dockerfile: Dockerfile
+       container_name: mern-app-frontend
+       ports:
+          - "5173:5173"
+       command:
+          "npm run dev"
+          
