@@ -45,7 +45,7 @@ all api busuness logic are defined in folder 'controllers'.
 $ cd client   
 $ cp dot-env .env    
 $ npm install   
-$ npm run dev     
+$ npm run dev -- --host    
 ```
 (Note: frontend is created using 'vite')   
 the main program file is /client/src/App.jsx    
