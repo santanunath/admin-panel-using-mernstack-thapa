@@ -1,0 +1,9 @@
+services:
+
+    mern-app-frontend:
+       build: .
+       container_name: mern-app-frontend
+       ports:
+          - "5000:5000"
+       command:
+          "npm run start"
