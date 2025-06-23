@@ -1,9 +1,0 @@
-services:
-
-    mern-app-frontend:
-       build: .
-       container_name: mern-app-frontend
-       ports:
-          - "5173:5173"
-       command:
-          "npm run dev --host 192.168.0.102"
