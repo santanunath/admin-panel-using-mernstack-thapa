@@ -51,3 +51,40 @@ $ npm run dev
 the main program file is /client/src/App.jsx    
      
 ----
+## How to run the application inside Docker container
+
+
+First, clone the repository:   
+(private repo requires username, password)
+
+```bash
+$ git clone <repository url>
+```
+
+
+
+Start the application 
+
+```bash
+$ sudo docker-compose up -d
+$ sudo docker ps (list running containers)
+$ sudo docker logs <container-name> (it is optional)
+```
+
+Open    
+http://localhost:3000    
+(or)     
+http://host-ip:3000    
+with your browser to see the result.
+   
+
+## How to Stop/remove the application
+
+```bash
+$ sudo docker-compose down
+$ sudo docker ps
+$ sudo docker system prune -a 
+$ cd ..
+$ sudo rm -r <application-directory-name>
+$ ls -l
+```
