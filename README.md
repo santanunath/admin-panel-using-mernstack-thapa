@@ -59,6 +59,12 @@ First, clone the repository:
 
 ```bash
 $ git clone <repository url>
+$ cd server
+$ cp dot-env .env
+$ cd ..
+$ cd client
+$ cp dot-env .env
+$ cd ..
 ```
 
 
