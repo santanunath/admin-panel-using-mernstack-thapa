@@ -1,1 +1,10 @@
+services:
 
+    nextjs-app:
+       build: .
+       container_name: nextjs-app
+       ports:
+          - "3000:3000"
+       command:
+          "npm run start"
+          
