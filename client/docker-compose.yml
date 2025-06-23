@@ -4,6 +4,6 @@ services:
        build: .
        container_name: mern-app-frontend
        ports:
-          - "5000:5000"
+          - "5173:5173"
        command:
           "npm run dev"
