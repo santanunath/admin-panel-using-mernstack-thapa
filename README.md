@@ -47,7 +47,7 @@ $ cp dot-env .env
 $ npm install   
 $ npm run dev -- --host    
 ```
-(Note: if you want to access the frontend server from another device in the same network, u have to use '--host' at the end of  the command.    
+(Note: if you want to access the frontend server from another device in the same network, u have to use '--host' at the end of  the command. suppose we want to access from 192.168.0.102   
 (Note: frontend is created using 'vite')   
 the main program file is /client/src/App.jsx    
      
