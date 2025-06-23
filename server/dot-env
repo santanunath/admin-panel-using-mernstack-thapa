@@ -6,7 +6,7 @@ JWT_SECRET_KEY=dilmangeymore
 # MONGODB_URI (used in /server/utils/db.js)
 # username: santanu62
 # password: bapon62
-# database: pharmadb
+# database: mern_db
 # ----------------
 # JWT_SECRET_KEY (used in /server/models/user-model.js)
 # ----------------
