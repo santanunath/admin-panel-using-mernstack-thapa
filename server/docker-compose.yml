@@ -1,10 +1,10 @@
 services:
 
-    nextjs-app:
+    mern-app:
        build: .
-       container_name: nextjs-app
+       container_name: mern-app
        ports:
-          - "3000:3000"
+          - "5000:5000"
        command:
           "npm run start"
           
