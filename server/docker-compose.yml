@@ -1,8 +1,8 @@
 services:
 
-    mern-app:
+    mern-app-backend:
        build: .
-       container_name: mern-app
+       container_name: mern-app-backend
        ports:
           - "5000:5000"
        command:
