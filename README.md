@@ -1,3 +1,5 @@
+## Tested: OK (in my Rpi3b+)
+
 ### created by: thapa
 
 ## Tech stack (client/frontend)
