@@ -24,8 +24,9 @@
 ## How to run the server (backend) application
 
 ```bash
-$ cd server
-$ cp dot-env .env
+$ cd server   
+$ cp dot-env .env    
+(make necessary changes in .env file)   
 $ npm install   
 $ npm run start    
    
@@ -46,6 +47,7 @@ all api busuness logic are defined in folder 'controllers'.
 ```bash
 $ cd client   
 $ cp dot-env .env    
+(make necessary changes in .env file)
 $ npm install   
 $ npm run dev -- --host    
 ```
