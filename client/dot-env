@@ -1,4 +1,6 @@
-VITE_APP_URI_API=http://<backend-server-ip>:<backend-server-port>
+#VITE_APP_URI_API=http://<backend-server-ip>:<backend-server-port>
+
+VITE_APP_URI_API=http://192.168.0.102:5000
 
 # -------------
 # VITE_APP_URI_API (used in /client/src/store/auth.jsx)
