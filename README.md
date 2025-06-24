@@ -82,7 +82,7 @@ $ sudo docker ps (list running containers)
 $ sudo docker logs <container-name> (it is optional)
 ```
 
-for server(backend)app Open    
+for server(backend)app Open in your browser   
 http://localhost:5000    
 (or)     
 http://host-ip:5000    
