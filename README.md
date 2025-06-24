@@ -37,7 +37,7 @@ it may be different for your system.
 (Note: always run the backend application first. here 'server.js' is the main program which defines the PORT number,eg.5000)    
 all api routes are defined in folder 'router'.    
 all api busuness logic are defined in folder 'controllers'.   
-> WARNING!! u have to specify frontend URLs in cors allowedOrigin in file 'server.js', otherwise frontend cannot access the backend.
+> WARNING!! u have to specify frontend URLs in CORS allowedOrigin in file '/server/server.js', otherwise frontend cannot access the backend.
       
 ## How to run the client (frontend) application
 
