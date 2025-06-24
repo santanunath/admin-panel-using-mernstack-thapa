@@ -96,6 +96,13 @@ http://host-ip:5173
 with your browser to see the result.
 
     
+two users created   
+user1: nsantanu@gmail.com/bapon62   
+user2: ronit@gmail.com/gablu1992
+     
+note: by default isAdmin=false   
+u can change it to 'true' in the database. mongodb atlas website.     
+        
 ## How to Stop/remove the application
 
 ```bash
