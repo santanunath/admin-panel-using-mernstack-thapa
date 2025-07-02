@@ -82,13 +82,15 @@ $ sudo docker ps (list running containers)
 $ sudo docker logs <container-name> (it is optional)
 ```
 
-to see the result for server(backend)app Open in your browser    
+To see the result for server(backend)app    
+Open in your browser    
 http://localhost:5000    
 (or)     
 http://host-ip:5000    
    
     
-to see the result for client(frontend)app Open    
+To see the result for client(frontend)app 
+Open in your browser     
 http://localhost:5173    
 (or)     
 http://host-ip:5173    
